@@ -4,6 +4,7 @@
 First we need to create a object for the class after that we can access the methods using reference variable.
 CommonMethods cm=new CommonMethods();
 
+
 Here's the README file content:
 
 ---
